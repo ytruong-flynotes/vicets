@@ -62,9 +62,6 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-# Compiled typescript
-dist/
-
 scratch/
 
 .idea/
