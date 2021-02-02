@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "google-libphonenumber": "^3.1.6",
-    "phone": "^2.3.0",
+    "phone": "git+https://github.com/ytruong-flynotes/phone.git",
     "reflect-metadata": "^0.1.12",
     "tslib": "^1.9.3",
     "validator": "10.4.0"
